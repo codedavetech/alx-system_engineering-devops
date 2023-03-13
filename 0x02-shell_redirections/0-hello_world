@@ -1,2 +1,2 @@
 #!/bin/bash 
-sudo "Hello,World"
+echo "Hello, World"
